@@ -110,13 +110,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Create a Sidebar for category selection.
      - **Reading:** [Material UI Sidebar](https://mui.com/components/drawers/)  
-     - **Video:** [Sidebar Tutorial](https://www.youtube.com/watch?v=BsDoLVMnmZs)
+     - **Video:** [Sidebar Tutorial](https://www.youtube.com/watch?v=Ix1LZGBSp-E&t=45s)
   2. Fetch and display video data using RapidAPI's YouTube API.
      - **Reading:** [RapidAPI Docs](https://rapidapi.com/)  
-     - **Video:** [API Integration Guide](https://www.youtube.com/watch?v=UUddpbgPEJM)
+     - **Video:** [API Integration Guide](https://www.youtube.com/watch?v=Gt8PKvZy1K0&list=PLh0D7DkM5FfB5ItIZoZSp_ep3hyQAbdqj)
   3. Design video cards with Material UI.
      - **Reading:** [Material UI Cards](https://mui.com/components/cards/)  
-     - **Video:** [Cards in Material UI](https://www.youtube.com/watch?v=volAze3fpt0)
+     - **Video:** [Cards in Material UI](https://www.youtube.com/watch?v=HKurd8jpZzA)
 
 - **Deliverables:**
   - A responsive feed with category-based video filtering.
