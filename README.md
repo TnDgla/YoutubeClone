@@ -76,13 +76,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Install and configure Node.js, React.js, and npm.
      - **Reading:** [Node.js & npm Docs](https://nodejs.dev/learn)  
-     - **Video:** [React Setup Tutorial](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
+     - **Video:** [React Setup Tutorial](https://www.youtube.com/watch?v=w3vs4a03y3I)
   2. Initialize the React project and install dependencies (React Router DOM, Material UI).
      - **Reading:** [React Docs](https://react.dev/blog/2023/03/16/introducing-react-dev)  
-     - **Video:** [Material UI Setup Guide](https://www.youtube.com/watch?v=UBOj6rqRUME)
+     - **Video:** [Material UI Setup Guide](https://www.youtube.com/watch?v=vgoDeb1LY8c)
   3. Create the basic folder structure and implement the initial layout.
      - **Reading:** [React Project Structure](https://reactjs.org/docs/faq-structure.html)  
-     - **Video:** [Folder Structure in React](https://www.youtube.com/watch?v=8KaJRw-rfn8)
+     - **Video:** [Folder Structure in React](https://www.youtube.com/watch?v=SqcY0GlETPk&t=115s)
 
 - **Deliverables:**
   - Basic React app structure with routing and Material UI setup.
