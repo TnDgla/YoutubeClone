@@ -142,11 +142,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Add search functionality and deploy the app.
 - **Tasks:**
   1. Implement a search results page.
-     - **Reading:** [React Search Implementation](https://react.dev/reference/react-dom/components/form)  
-     - **Video:** [Building Search Pages](https://www.youtube.com/watch?v=EYpdEYK25Dc)
+     - **Reading:** [React Search Implementation](https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/)  
+     - **Video:** [Building Search Pages](https://www.youtube.com/watch?v=SP9T988eaWM)
   2. Test and deploy the app using Vercel.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=2HBIzEx6IZA)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=357s)
 
 - **Deliverables:**
   - A deployed YouTube Clone app with search functionality.
