@@ -155,6 +155,8 @@ This project is structured to ensure a systematic and incremental development pr
 
 ## **Screenshots**
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/55c7454e-9b91-4f77-9208-b3b71034593a" />
+
 
 
 ---
