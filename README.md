@@ -77,6 +77,7 @@ This project is structured to ensure a systematic and incremental development pr
   1. Install and configure Node.js, React.js, and npm.
      - **Reading:** [Node.js & npm Docs](https://nodejs.dev/learn)  
      - **Video:** [React Setup Tutorial](https://www.youtube.com/watch?v=w3vs4a03y3I)
+     - **Video:** [Node Js Tutorial](https://www.youtube.com/watch?v=BLl32FvcdVM)
   2. Initialize the React project and install dependencies (React Router DOM, Material UI).
      - **Reading:** [React Docs](https://react.dev/blog/2023/03/16/introducing-react-dev)  
      - **Video:** [Material UI Setup Guide](https://www.youtube.com/watch?v=vgoDeb1LY8c)
