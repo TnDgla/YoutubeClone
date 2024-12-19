@@ -128,10 +128,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Create a Video Details page with video playback and related videos.
      - **Reading:** [React Player Integration](https://github.com/cookpete/react-player)  
-     - **Video:** [Video Player Setup](https://www.youtube.com/watch?v=SdzMBWT2CDQ)
+     - **Video:** [Video Player Setup](https://www.youtube.com/watch?v=Y-OLcnr8eNo)
   2. Develop a Channel Details page displaying channel-specific videos.
      - **Reading:** [Channel API Reference](https://developers.google.com/youtube/v3/docs/channels)  
-     - **Video:** [Channel Page Implementation](https://www.youtube.com/watch?v=WyS3mF4wJKw)
+     - **Video:** [Channel Page Implementation](https://www.youtube.com/watch?v=DuudSp4sHmg)
 
 - **Deliverables:**
   - Functional Video Details and Channel Details pages.
