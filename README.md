@@ -94,10 +94,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Build a Navbar with a logo and navigation links.
      - **Reading:** [Material UI Navbar](https://mui.com/components/app-bar/)  
-     - **Video:** [Navbar Tutorial](https://www.youtube.com/watch?v=TeZdo8mx0gc)
+     - **Video:** [Navbar Tutorial](https://www.youtube.com/watch?v=lUkxSnJ7aDw)
   2. Implement a Search Bar with Material UI components.
      - **Reading:** [Material UI Input](https://mui.com/components/text-fields/)  
-     - **Video:** [Building a Search Bar](https://www.youtube.com/watch?v=wRNinF7YQqQ)
+     - **Video:** [Building a Search Bar](https://www.youtube.com/watch?v=fzxEECHnsvU&t=630s)
 
 - **Deliverables:**
   - A fully responsive Navbar and Search Bar integrated into the application.
